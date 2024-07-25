@@ -1,0 +1,97 @@
+﻿@model IEnumerable<EcosistemasMarinos.LogicaNegocio.Entidades.Ecosistema>
+
+@{
+    ViewData["Title"] = "Listado de Ecosistemas";
+}
+
+<h1>Listado de Ecosistemas</h1>
+
+<hr />
+
+<form asp-action="Index" class="form-group" id="FiltroHTML">
+    <label class="control-label"></label>
+    <select name="tipoArgumento" onchange="actualizarInterfazFiltros();" id="SelectFiltro">
+        <option selected value="0">Todo</option>
+        <option value="1">Ecosistemas habitados por Especie</option>
+        <option value="2">Ecosistemas NO habitables por Especie</option>
+    </select>
+    <span id="Filtro2HTML"></span>
+    <input type="submit" value="Mostrar" class="btn btn-primary" />
+</form>
+
+<p>@ViewBag.Mensaje</p>
+<p>@TempData["Mensaje"]</p>
+
+<hr />
+
+@if (User.Identity != null && User.Identity.IsAuthenticated) {
+    <p><a asp-action="Create">Añadir Ecosistema</a></p>
+} else {
+     <p></p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Area)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Imagen)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null) {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Area)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        <img src="/imgs/@item.Imagen" height="50" />
+                    </td>
+                    <td>
+                        @if (User.Identity != null && User.Identity.IsAuthenticated){
+                            @Html.ActionLink("Delete", "Delete", new { id=item.Id  })
+                        }
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+
+<script>
+    function actualizarInterfazFiltros() {
+        if (document.querySelector("#SelectFiltro").value == 1 || document.querySelector("#SelectFiltro").value == 2) {
+            document.querySelector("#Filtro2HTML").innerHTML = `
+                                                <label class="control-label" >Nombre</label>
+                                                <input type="text" name="argumento" />
+                                                <span class="text-danger" > </span>
+                                            `;
+        } else {
+            document.querySelector("#Filtro2HTML").innerHTML = ""; //Filtros para opc 0 "Todo"
+        }
+    }
+</script>

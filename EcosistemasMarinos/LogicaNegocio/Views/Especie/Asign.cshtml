@@ -1,0 +1,51 @@
+﻿@model EcosistemasMarinos.MVC.Models.AsignViewModel
+
+@{
+    ViewData["Title"] = "Asign";
+}
+
+<h1>Asignar especie a ecosistema</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Asign">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label class="control-label">Especies</label>
+                <select name="idEspecie">
+                    @foreach (EcosistemasMarinos.LogicaNegocio.Entidades.Especie especie in Model.Especies)
+                    {
+                        <option value="@especie.Id">@especie.NombreCientifico</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Ecosistemas</label>
+                <select name="idEcosistema">
+                    @foreach (EcosistemasMarinos.LogicaNegocio.Entidades.Ecosistema ecosistema in Model.Ecosistemas)
+                    {
+                        <option value="@ecosistema.Id">@ecosistema.Nombre</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>@ViewBag.Mensaje</p>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

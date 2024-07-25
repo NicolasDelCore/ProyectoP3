@@ -1,0 +1,127 @@
+﻿@model EcosistemasMarinos.MVC.Models.EspecieViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Especie</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Especie.NombreCientifico" class="control-label"></label>
+                <input asp-for="Especie.NombreCientifico" class="form-control" />
+                <span asp-validation-for="Especie.NombreCientifico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Especie.NombreVulgar" class="control-label"></label>
+                <input asp-for="Especie.NombreVulgar" class="form-control" />
+                <span asp-validation-for="Especie.NombreVulgar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Especie.RangoTamano.LongitudMinima" class="control-label"></label>
+                <input asp-for="Especie.RangoTamano.LongitudMinima" class="form-control" />
+                <span asp-validation-for="Especie.RangoTamano.LongitudMinima" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Especie.RangoTamano.LongitudMaxima" class="control-label"></label>
+                <input asp-for="Especie.RangoTamano.LongitudMaxima" class="form-control" />
+                <span asp-validation-for="Especie.RangoTamano.LongitudMaxima" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Especie.RangoTamano.PesoMinimo" class="control-label"></label>
+                <input asp-for="Especie.RangoTamano.PesoMinimo" class="form-control" />
+                <span asp-validation-for="Especie.RangoTamano.PesoMinimo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Especie.RangoTamano.PesoMaximo" class="control-label"></label>
+                <input asp-for="Especie.RangoTamano.PesoMaximo" class="form-control" />
+                <span asp-validation-for="Especie.RangoTamano.PesoMaximo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Especie.Descripcion" class="control-label"></label>
+                <input asp-for="Especie.Descripcion" class="form-control" />
+                <span asp-validation-for="Especie.Descripcion" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label class="control-label">Ecosistemas</label>
+                <select name="IdEcosistemasSeleccionados" multiple>
+                    @foreach (EcosistemasMarinos.LogicaNegocio.Entidades.Ecosistema ecosistema in Model.Ecosistemas)
+                    {
+                        if (Model.IdEcosistemasSeleccionados != null && Model.IdEcosistemasSeleccionados.Contains(ecosistema.Id))
+                        {
+                            <option selected value="@ecosistema.Id">@ecosistema.Nombre</option>
+                        }
+                        else
+                        {
+                            <option value="@ecosistema.Id">@ecosistema.Nombre</option>
+                        }
+                    }
+                </select>
+            </div>
+
+
+
+            <div class="form-group">
+                <label class="control-label">Amenazas</label>
+                <select name="IdAmenazasSeleccionada" multiple>
+                    @foreach (EcosistemasMarinos.LogicaNegocio.Entidades.Amenaza amenaza in Model.Amenazas)
+                    {
+                        if (Model.IdAmenazasSeleccionada != null && Model.IdAmenazasSeleccionada.Contains(amenaza.Id))
+                        {
+                            <option selected value="@amenaza.Id">@amenaza.Descripcion</option>
+                        }
+                        else
+                        {
+                            <option value="@amenaza.Id">@amenaza.Descripcion</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Estado de conservación</label>
+                <select name="IdEstadoConservacionSeleccionado">
+                    @foreach (EcosistemasMarinos.LogicaNegocio.Entidades.EstadoConservacion estadoConservacion in Model.EstadosConservacion)
+                    {
+                        if (estadoConservacion.Id == Model.IdEstadoConservacionSeleccionado)
+                        {
+                            <option selected value="@estadoConservacion.Id">@estadoConservacion.Nombre</option>
+                        }
+                        else
+                        {
+                            <option value="@estadoConservacion.Id">@estadoConservacion.Nombre</option>
+                        }
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Imagen" class="control-label"></label>
+                <input asp-for="Imagen" class="form-control" />
+                <span asp-validation-for="Imagen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@ViewBag.Mensaje
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

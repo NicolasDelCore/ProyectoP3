@@ -1,0 +1,37 @@
+﻿@model IEnumerable<EcosistemasMarinos.LogicaNegocio.Parametros.Parametro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Topes de Nombre y Descripción para Especies</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Valor)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
