@@ -1,0 +1,234 @@
+USE [EcosistemasPrueba]
+GO
+SET IDENTITY_INSERT [dbo].[EstadosConservacion] ON 
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (1, N'EstadoConservacion1', 50)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (2, N'EstadoConservacion2', 70)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (3, N'EstadoConservacion3', 90)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (4, N'EstadoConservacion4', 30)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (5, N'EstadoConservacion5', 25)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (6, N'EstadoConservacion6', 95)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (7, N'EstadoConservacion7', 10)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (8, N'EstadoConservacion8', 5)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (9, N'EstadoConservacion9', 15)
+GO
+INSERT [dbo].[EstadosConservacion] ([Id], [Nombre], [EstadoPorcentual]) VALUES (10, N'EstadoConservacion10', 35)
+GO
+SET IDENTITY_INSERT [dbo].[EstadosConservacion] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Especies] ON 
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (17, N'Especie1', N'EP1', N'Especie1', CAST(1.00 AS Decimal(18, 2)), CAST(200.00 AS Decimal(18, 2)), CAST(10.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), 8, N'Especie1.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (18, N'Especie2', N'EP2', N'Especie2', CAST(30.00 AS Decimal(18, 2)), CAST(45.00 AS Decimal(18, 2)), CAST(10.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), 8, N'Especie2.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (19, N'Especie3', N'EP3', N'Especie3', CAST(1.00 AS Decimal(18, 2)), CAST(30.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), CAST(40.00 AS Decimal(18, 2)), 9, N'Especie3.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (20, N'Especie4', N'EP4', N'Especie4', CAST(10.00 AS Decimal(18, 2)), CAST(30.00 AS Decimal(18, 2)), CAST(30.00 AS Decimal(18, 2)), CAST(40.00 AS Decimal(18, 2)), 9, N'Especie4.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (21, N'Especie5', N'EP5', N'Especie5', CAST(30.00 AS Decimal(18, 2)), CAST(50.00 AS Decimal(18, 2)), CAST(10.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), 9, N'Especie5.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (22, N'Especie6', N'EP6', N'Especie6', CAST(12.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), CAST(2.00 AS Decimal(18, 2)), CAST(30.00 AS Decimal(18, 2)), 6, N'Especie6.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (23, N'Especie7', N'EP7', N'Especie7', CAST(3.00 AS Decimal(18, 2)), CAST(40.00 AS Decimal(18, 2)), CAST(12.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), 8, N'Especie7.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (24, N'Especie8', N'EP8', N'Especie8', CAST(3.00 AS Decimal(18, 2)), CAST(50.00 AS Decimal(18, 2)), CAST(3.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), 6, N'Especie8.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (25, N'Especie9', N'EP9', N'Especie9', CAST(1.00 AS Decimal(18, 2)), CAST(40.00 AS Decimal(18, 2)), CAST(30.00 AS Decimal(18, 2)), CAST(50.00 AS Decimal(18, 2)), 6, N'Especie9.jpg')
+GO
+INSERT [dbo].[Especies] ([Id], [NombreCientifico], [NombreVulgar], [Descripcion], [RangoTamano_PesoMinimo], [RangoTamano_PesoMaximo], [RangoTamano_LongitudMinima], [RangoTamano_LongitudMaxima], [EstadoConservacionId], [Imagen]) VALUES (26, N'Especie10', N'EP10', N'Especie10', CAST(2.00 AS Decimal(18, 2)), CAST(40.00 AS Decimal(18, 2)), CAST(2.00 AS Decimal(18, 2)), CAST(40.00 AS Decimal(18, 2)), 7, N'Especie10.jpg')
+GO
+SET IDENTITY_INSERT [dbo].[Especies] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Paises] ON 
+GO
+INSERT [dbo].[Paises] ([Id], [Nombre], [Alfa]) VALUES (2, N'Brasil', N'BRA')
+GO
+INSERT [dbo].[Paises] ([Id], [Nombre], [Alfa]) VALUES (3, N'Uruguay', N'URU')
+GO
+INSERT [dbo].[Paises] ([Id], [Nombre], [Alfa]) VALUES (4, N'Argentina', N'ARG')
+GO
+SET IDENTITY_INSERT [dbo].[Paises] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Ecosistemas] ON 
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (26, N'Ecosistema1', CAST(1.00 AS Decimal(18, 2)), CAST(10.00 AS Decimal(18, 2)), 20, N'Ecosistema1', 3, 3, N'Ecosistema1.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (27, N'Ecosistema2', CAST(10.00 AS Decimal(18, 2)), CAST(25.00 AS Decimal(18, 2)), 25, N'Ecosistema2', 3, 6, N'Ecosistema2.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (28, N'Ecosistema3', CAST(1.00 AS Decimal(18, 2)), CAST(200.00 AS Decimal(18, 2)), 30, N'Ecosistema3', 4, 8, N'Ecosistema3.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (29, N'Ecosistema4', CAST(25.00 AS Decimal(18, 2)), CAST(270.00 AS Decimal(18, 2)), 250, N'Ecosistema4', 2, 5, N'Ecosistema4.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (30, N'Ecosistema5', CAST(10.00 AS Decimal(18, 2)), CAST(200.00 AS Decimal(18, 2)), 145, N'Ecosistema5', 3, 6, N'Ecosistema5.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (31, N'Ecosistema6', CAST(205.00 AS Decimal(18, 2)), CAST(310.00 AS Decimal(18, 2)), 100, N'Ecosistema6', 4, 7, N'Ecosistema6.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (32, N'Ecosistema7', CAST(27.00 AS Decimal(18, 2)), CAST(324.00 AS Decimal(18, 2)), 20, N'Ecosistema7', 3, 7, N'Ecosistema7.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (33, N'Ecosistema8', CAST(3.00 AS Decimal(18, 2)), CAST(20.00 AS Decimal(18, 2)), 240, N'Ecosistema8', 4, 10, N'Ecosistema8.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (34, N'Ecosistema9', CAST(10.00 AS Decimal(18, 2)), CAST(30.00 AS Decimal(18, 2)), 10, N'Ecosistema9', 4, 7, N'Ecosistema9.jpg')
+GO
+INSERT [dbo].[Ecosistemas] ([Id], [Nombre], [Ubicacion_Latitud], [Ubicacion_Longitud], [Area], [Descripcion], [PaisId], [EstadoConservacionId], [Imagen]) VALUES (35, N'Ecosistema10', CAST(20.00 AS Decimal(18, 2)), CAST(30.00 AS Decimal(18, 2)), 20, N'Ecosistema10', 4, 9, N'Ecosistema10.jpg')
+GO
+SET IDENTITY_INSERT [dbo].[Ecosistemas] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Amenazas] ON 
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (24, N'Amenaza1', 2, 34, 19)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (25, N'Amenaza2', 4, 35, 25)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (26, N'Amenaza3', 9, 34, 24)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (27, N'Amenaza4', 10, 35, 26)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (28, N'Amenaza5', 7, 33, NULL)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (29, N'Amenaza6', 8, NULL, NULL)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (30, N'Amenaza7', 1, NULL, NULL)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (31, N'Amenaza8', 2, NULL, NULL)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (32, N'Amenaza9', 3, 33, NULL)
+GO
+INSERT [dbo].[Amenazas] ([Id], [Descripcion], [Grado], [EcosistemaId], [EspecieId]) VALUES (33, N'Amenaza10', 5, 33, NULL)
+GO
+SET IDENTITY_INSERT [dbo].[Amenazas] OFF
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (26, 17)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (28, 18)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (29, 18)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (26, 19)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (27, 19)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (33, 19)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (28, 20)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (29, 21)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (28, 22)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (29, 22)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (34, 23)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (35, 23)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (28, 24)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (32, 25)
+GO
+INSERT [dbo].[EspeciesQuePuedenHabitar] ([EcosistemasQuePuedenHabitarId], [EspeciesQuePuedenHabitarId]) VALUES (27, 26)
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231013141208_init', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231014132317_inherit', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231014135236_valores', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231014153627_modificaciones', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231014161951_modifii', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231016150510_agregarcambios', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231016151632_init', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231016152302_iniciarDatabase', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231016175036_eliminadoIds', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231017021719_MergeObliNico1', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231017125056_modificacionesNico', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231018052733_logEcosistema', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231018134057_logEcosistema2', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231019134337_initial', N'7.0.12')
+GO
+INSERT [dbo].[__EFMigrationsHistory] ([MigrationId], [ProductVersion]) VALUES (N'20231019230859_inicials', N'7.0.12')
+GO
+SET IDENTITY_INSERT [dbo].[Logs] ON 
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (21, CAST(N'2023-10-19T20:11:51.9613306' AS DateTime2), N'Parametro', 1, N'Modificacion', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (22, CAST(N'2023-10-19T20:11:55.5378828' AS DateTime2), N'Parametro', 1, N'Modificacion', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (23, CAST(N'2023-10-19T20:12:58.2693149' AS DateTime2), N'Ecosistema', 26, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (24, CAST(N'2023-10-19T20:13:29.2065356' AS DateTime2), N'Ecosistema', 27, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (25, CAST(N'2023-10-19T20:13:58.7492352' AS DateTime2), N'Ecosistema', 28, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (26, CAST(N'2023-10-19T20:14:27.5441968' AS DateTime2), N'Ecosistema', 29, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (27, CAST(N'2023-10-19T20:14:51.2141304' AS DateTime2), N'Ecosistema', 30, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (28, CAST(N'2023-10-19T20:15:20.0830063' AS DateTime2), N'Ecosistema', 31, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (29, CAST(N'2023-10-19T20:15:40.9345094' AS DateTime2), N'Ecosistema', 32, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (30, CAST(N'2023-10-19T20:16:10.9766145' AS DateTime2), N'Ecosistema', 33, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (31, CAST(N'2023-10-19T20:16:30.9999735' AS DateTime2), N'Ecosistema', 34, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (32, CAST(N'2023-10-19T20:16:50.8436763' AS DateTime2), N'Ecosistema', 35, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (33, CAST(N'2023-10-19T20:17:24.3401366' AS DateTime2), N'Especie', 17, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (34, CAST(N'2023-10-19T20:18:00.5557266' AS DateTime2), N'Especie', 18, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (35, CAST(N'2023-10-19T20:18:27.0458163' AS DateTime2), N'Especie', 19, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (36, CAST(N'2023-10-19T20:18:54.3843689' AS DateTime2), N'Especie', 20, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (37, CAST(N'2023-10-19T20:19:23.5733423' AS DateTime2), N'Especie', 21, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (38, CAST(N'2023-10-19T20:19:50.0047534' AS DateTime2), N'Especie', 22, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (39, CAST(N'2023-10-19T20:20:14.5295637' AS DateTime2), N'Especie', 23, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (40, CAST(N'2023-10-19T20:20:40.8874713' AS DateTime2), N'Especie', 24, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (41, CAST(N'2023-10-19T20:21:13.0371464' AS DateTime2), N'Especie', 25, N'Alta', N'Admin1')
+GO
+INSERT [dbo].[Logs] ([Id], [Fecha], [ObjetoModificado], [EntidadId], [Operacion], [Usuario]) VALUES (42, CAST(N'2023-10-19T20:21:38.4809767' AS DateTime2), N'Especie', 26, N'Alta', N'Admin1')
+GO
+SET IDENTITY_INSERT [dbo].[Logs] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Parametros] ON 
+GO
+INSERT [dbo].[Parametros] ([Id], [Nombre], [Valor]) VALUES (1, N'MinCharNombre', N'1')
+GO
+INSERT [dbo].[Parametros] ([Id], [Nombre], [Valor]) VALUES (2, N'MaxCharNombre', N'20')
+GO
+INSERT [dbo].[Parametros] ([Id], [Nombre], [Valor]) VALUES (3, N'MinCharDescripcion', N'1')
+GO
+INSERT [dbo].[Parametros] ([Id], [Nombre], [Valor]) VALUES (4, N'MaxCharDescripcion', N'20')
+GO
+SET IDENTITY_INSERT [dbo].[Parametros] OFF
+GO
+SET IDENTITY_INSERT [dbo].[Usuarios] ON 
+GO
+INSERT [dbo].[Usuarios] ([Id], [Alias], [FechaRegistro], [PasswordEncriptado], [PasswordIV], [PasswordPlano], [Rol]) VALUES (5, N'Admin1', CAST(N'2023-10-17T09:51:40.0988458' AS DateTime2), N'gJkmt3LrfIMnN+bom4shWw==', 0x4F94D20E799560308F233E558061940E, N'Admin.12', 0)
+GO
+SET IDENTITY_INSERT [dbo].[Usuarios] OFF
+GO
