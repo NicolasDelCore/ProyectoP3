@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaAplicacion\\EcosistemasMarinos.LogicaAplicacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaAplicacion\\EcosistemasMarinos.LogicaAplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaAplicacion\\EcosistemasMarinos.LogicaAplicacion.csproj",
+        "projectName": "EcosistemasMarinos.LogicaAplicacion",
+        "projectPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaAplicacion\\EcosistemasMarinos.LogicaAplicacion.csproj",
+        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaAplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\EcosistemasMarinos.LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\EcosistemasMarinos.LogicaNegocio.csproj"
+              },
+              "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\LogicaAccesoDatos\\EcosistemasMarinos.LogicaAccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\LogicaAccesoDatos\\EcosistemasMarinos.LogicaAccesoDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\EcosistemasMarinos.LogicaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\EcosistemasMarinos.LogicaNegocio.csproj",
+        "projectName": "EcosistemasMarinos.LogicaNegocio",
+        "projectPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\EcosistemasMarinos.LogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\LogicaAccesoDatos\\EcosistemasMarinos.LogicaAccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\LogicaAccesoDatos\\EcosistemasMarinos.LogicaAccesoDatos.csproj",
+        "projectName": "EcosistemasMarinos.LogicaAccesoDatos",
+        "projectPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\LogicaAccesoDatos\\EcosistemasMarinos.LogicaAccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Nico\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\LogicaAccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\EcosistemasMarinos.LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\Nico\\Desktop\\ORT Nico\\Semestre3\\Programacion 3\\Obligatorio\\19 de octubre 20.30\\Obligatorio\\EcosistemasMarinos\\EcosistemasMarinos.LogicaNegocio\\EcosistemasMarinos.LogicaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
