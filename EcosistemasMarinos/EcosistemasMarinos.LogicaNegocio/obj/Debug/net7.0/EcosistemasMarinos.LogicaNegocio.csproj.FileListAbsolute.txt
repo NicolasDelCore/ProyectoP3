@@ -1,0 +1,144 @@
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\fio\Desktop\Obligatorio P3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\fio\Desktop\ObligatorioP3\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\Obli Santi\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\fio\Desktop\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\A mergear\ObligatorioVNico\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\17 de octubre 18.50\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 14.20\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\18 de octubre 17.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 1.50 am\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 19.45\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.00\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.deps.json
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\bin\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\refint\EcosistemasMarinos.LogicaNegocio.dll
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\EcosistemasMarinos.LogicaNegocio.pdb
+C:\Users\Nico\Desktop\ORT Nico\Semestre3\Programacion 3\Obligatorio\19 de octubre 20.30\Obligatorio\EcosistemasMarinos\EcosistemasMarinos.LogicaNegocio\obj\Debug\net7.0\ref\EcosistemasMarinos.LogicaNegocio.dll
